@@ -8,7 +8,7 @@
 # The latest version of this script is available at:
 # https://github.com/GamikaSanjana/V-P-N-S-E-R-V-E-R
 #
-# Copyright (C) 2021-2024 Gamika Sanjana <gamikasanjana1@gmail.com>
+# Copyright (C) 2021-2024 CYBER DILA <gamikasanjana1@gmail.com>
 #
 # This work is licensed under the Creative Commons Attribution-ShareAlike 3.0
 # Unported License: http://creativecommons.org/licenses/by-sa/3.0/
